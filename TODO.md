@@ -9,6 +9,7 @@
     - yellow
 - units
     - name
+    - wid/hgt in map tiles
     - display character
     - display color
     - owner

@@ -1,0 +1,28 @@
+- map
+    - 2d terrain
+        - land (green)
+        - sea (blue)
+- resources (these can represent anything you want)
+    - red
+    - green
+    - blue
+    - yellow
+- units
+    - name
+    - owner
+    - tech dependencies
+    - cost
+        - red
+        - green
+        - blue
+        - yellow
+    - storage
+        - red
+        - green
+        - blue
+        - yellow
+    - attacks (list of weapons/damange per second against defenses)
+    - defenses (list of armors/hp points)
+- buildings (are these just immobile units?)
+- tech tree (dependency tree of things that need to be build or researched in
+  order to unlock other things)

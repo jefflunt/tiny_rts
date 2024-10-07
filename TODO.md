@@ -9,6 +9,8 @@
     - yellow
 - units
     - name
+    - display character
+    - display color
     - owner
     - tech dependencies
     - cost
@@ -26,3 +28,5 @@
 - buildings (are these just immobile units?)
 - tech tree (dependency tree of things that need to be build or researched in
   order to unlock other things)
+- mouse input (example)
+    - https://stackoverflow.com/questions/77624687/capture-mouse-events-in-the-terminal-using-ruby
